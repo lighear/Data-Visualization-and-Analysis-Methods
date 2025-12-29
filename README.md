@@ -20,7 +20,7 @@
 ## 📖 Students Group Projects
 
 > Group ID: Projects Topic: Related GitHub link with detailed README files —— Team numbers
-
+>
 > Example: G0: Cryo-ET Analysis and Visualization Platform: [pyp software GitHub Link](https://github.com/nextpyp/pyp) —— Christy, Vivek
 
 ### Fall 2025-2026 Semester
