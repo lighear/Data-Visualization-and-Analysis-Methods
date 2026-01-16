@@ -47,7 +47,7 @@ G9:
 
 G10: 
 
-G11: 
+G11: 金属硫化物材料稳定性与电子性质研究：https://github.com/zzw-user-clude/Group11-Metal-sulfides-analysis —— 刘焕敏，郑智文，年旭丰，蒋坤宏
 
 G12: 
 
