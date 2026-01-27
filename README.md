@@ -54,7 +54,7 @@ G12:
 
 G13: 
 
-G14: 
+G14: 基于Myctobase数据库的南大洋中层鱼类采样数据特征分析研究：https://github.com/zhounancd/Group14-Sampling-Data-Analysis-of-Mesopelagic-Fish-in-Southern-Ocean —— 马欣雨，周楠，郑婷玮
 
 G15: 
 
