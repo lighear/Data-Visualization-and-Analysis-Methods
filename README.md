@@ -46,7 +46,7 @@ G8: 小鼠蛋白质相互作用网络可视化分析项目：https://github.com/
 
 G9: 
 
-G10: 
+G10: City Air Quality Analytics Dashboard: [GitHub Link](https://github.com/Suki219/Group10-City-Air-Quality-Analytics-Dashboard) —— 陈静婷，黄宝仪，雷涵越
 
 G11: 金属硫化物材料稳定性与电子性质研究：https://github.com/zzw-user-clude/Group11-Metal-sulfides-analysis —— 刘焕敏，郑智文，年旭丰，蒋坤宏
 
