@@ -37,7 +37,7 @@ Streaming Time (hrs/day)	   用户每天在流媒体平台（如视频、音乐�
 Gaming Time (hrs/day)	       用户每天在手机游戏上花费的时间（小时）
 Monthly Recharge Cost (INR)	   用户每月为手机充值或支付套餐费用的金额（印度卢比）
 Primary Use	                   用户使用手机的主要用途
----
+```
 
 
 ## 🎯  Research Objectives研究目标
