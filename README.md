@@ -1,7 +1,7 @@
 
-## 📚 Visualization Dashboard of Indian Mobile Phone Users' Behavior
+##  Visualization Dashboard of Indian Mobile Phone Users' Behavior
 
-## 📚 印度手机用户行为可视化大屏
+# 印度手机用户行为可视化大屏
 
 
 
@@ -12,8 +12,7 @@ This project mainly conducts behavioral analysis on Indian mobile phone users, p
 本项目主要对印度手机用户进行行为分析，对手机用户行为数据，包括年龄、性别、屏幕时间、数据使用量、应用使用情况等数据做可视化处理，并选择用户的消费行为进行k-means聚类。
 
 
-**Data Source**:
-**数据来源**:
+## 📁 Data Source数据来源
 
 The original dataset used in this paper is from the public dataset on Kaggle, with a total of 17,686 records. The dataset includes 16 fields such as user gender, age, total daily mobile phone screen time, monthly consumption amount on e-commerce platforms, monthly mobile data usage, and total daily call duration. The names and meanings of each field are as follows:
 
