@@ -49,7 +49,7 @@ Through the integration and dynamic analysis of multi-dimensional data on users'
 
 ## 📁 Project Structure项目结构
 
-
+```
 keshihuapingtai/
 ├── src/                                    # 原代码
 │   ├── app.py/                               # 进入可视化大屏网址
@@ -72,18 +72,20 @@ keshihuapingtai/
 │
 ├── README.md/                                    # readme文件
 
----
+```
 
 ## 🔧 Environment Configuration环境配置
+```
 pandas>=1.5.0
 numpy>=1.23.0
 matplotlib>=3.6.0
 seaborn>=0.12.0
 scikit-learn>=1.2.0
 streamlit>=1.20.0
+```
 
 ### Basic Dependency Version Requirements基础依赖版本要求
-
+```
 - Python 版本：3.8+
 - `pandas`
 - `numpy`
@@ -102,8 +104,8 @@ streamlit>=1.20.0
 - `KMeans` 
 - `silhouette_score` 
 - `StandardScaler` 
-
 ```
+
 ## 📁 Usage使用方法
 
 ### 1.Generate Various Analysis Charts
@@ -112,11 +114,13 @@ streamlit>=1.20.0
 运行 `ciyun.py,data_processing.py,k-means.py,map.py,map1.py ` 脚本，生成各类数据分析图
 运行以下脚本，生成对应的数据分析可视化图表：
 Run the following scripts to generate corresponding data analysis and visualization charts:
+```
 python src/ciyun.py
 python src/data_processing.py
 python src/k-means.py
 python src/map.py
 python src/map1.py
+```
 
 ### 2. Launch Visualization Dashboard
 ### 2. 启动可视化大屏
@@ -124,8 +128,9 @@ python src/map1.py
 运行 `app.py` 脚本,进入可视化大屏网址
 运行 app.py 脚本启动服务，访问输出的网址即可查看可视化大屏：
 Run the app.py script to start the service, and access the output URL to view the visualization dashboard:
+```
 python src/app.py
-
+```
 
 ## 💡 Future Work未来工作
 - **选择更多字段进行数据分析 | Select more fields for data analysis**
@@ -134,9 +139,10 @@ python src/app.py
 
 ## 👥 Team Members团队成员
 
+```
 -[何俊辉] (2501212913) | [He Junhui] (2501212913)
 -[张骋旭] (2501212936) | [Zhang Chengxu] (2501212936)
 -[陆胤] (2501212930)| [Lu Yin] (2501212930)
 -[陈安杰] (2501112421)| [Chen Anjie] (2501112421)
-
+```
 
