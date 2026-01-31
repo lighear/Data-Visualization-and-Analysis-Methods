@@ -50,7 +50,7 @@ G10: City Air Quality Analytics Dashboard: [GitHub Link](https://github.com/Suki
 
 G11: 金属硫化物材料稳定性与电子性质研究：https://github.com/zzw-user-clude/Group11-Metal-sulfides-analysis —— 刘焕敏，郑智文，年旭丰，蒋坤宏
 
-G12: 
+G12: 印度手机用户行为可视化大屏：https://github.com/HeJunhui-PKUSZ/Group12-Visualization-Dashboard-of-Indian-Mobile-Phone-Users-Behavior  —— 何俊辉、张骋旭、陆胤、陈安杰
 
 G13: 
 
